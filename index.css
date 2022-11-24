@@ -1,0 +1,30 @@
+h1,h6,.navbar-brand{
+    color: blue !important;
+}
+
+.footerNotes{
+    font-size: 14px;
+}
+
+#locMsg{
+    height: 20px;
+    margin-bottom: -10%;
+}
+
+#logo{
+    height: 60px;
+    width: 60px;
+    margin: 10px;
+}
+
+.cLogo{
+    height: 10px !important;
+    width: 10px !important;
+}
+
+.navbar-brand{
+    margin-top: -70px!important;
+}
+.navbar{
+    border-bottom: 3px blue solid !important;
+}
