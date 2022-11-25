@@ -6,10 +6,7 @@ h1,h6,.navbar-brand{
     font-size: 14px;
 }
 
-#locMsg{
-    height: 20px;
-    margin-bottom: -10%;
-}
+
 
 #logo{
     height: 60px;
@@ -21,11 +18,11 @@ h1,h6,.navbar-brand{
     border-bottom: 3px blue solid !important;
 }
 
-#aInst{
+#aHome{
     text-decoration: none;
 }
 
-#aInst:hover{
+#aHome:hover{
     color: white !important;
 }
 
